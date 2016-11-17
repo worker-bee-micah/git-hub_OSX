@@ -2,6 +2,8 @@
 #test_commits2
 #this folder is for testing templates and data compatibility
 #all data presented is to be considered inaccurate
+//# unless otherwise noted, files used in these examples are copyrighted by:
+//#http://www.filemaker.com/company/legal/terms.html
 #contact micah@sabunde.com
 #audit database mtNotes_demo
 #this folder contains some examples of Filemaker Pro GUI databases that I have created
